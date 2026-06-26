@@ -1,12 +1,6 @@
 """
 A Friendly Command-Line Voice Assistant
 -----------------------------------------
-
-Requires:
-    pip install speechrecognition pyttsx3 pyaudio
-
-If pyaudio/microphone setup gives trouble, the assistant will
-automatically fall back to typed input, so it still works either way.
 """
 
 import webbrowser
